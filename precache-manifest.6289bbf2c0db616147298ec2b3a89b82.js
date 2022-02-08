@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "543440c6f94692e0a44b",
+    "revision": "8a6ab2596f5746b1858e",
     "url": "/static/css/main.e4ae6d04.chunk.css"
   },
   {
-    "revision": "543440c6f94692e0a44b",
-    "url": "/static/js/main.b2c3851d.chunk.js"
+    "revision": "8a6ab2596f5746b1858e",
+    "url": "/static/js/main.b4e20a1d.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -24,15 +24,15 @@ self.__precacheManifest = [
     "url": "/static/media/LapsusPro-Bold.fd9fbaf2.otf"
   },
   {
-    "revision": "2a49d8423f736e364b6c09ca942d35c3",
-    "url": "/static/media/background_clouds.2a49d842.png"
-  },
-  {
     "revision": "a400a47f9dcece90b0d35eca37a5020c",
     "url": "/static/media/rainbow.a400a47f.png"
   },
   {
-    "revision": "8e0827e3be913a45b9078bd7c510a012",
+    "revision": "2a49d8423f736e364b6c09ca942d35c3",
+    "url": "/static/media/background_clouds.2a49d842.png"
+  },
+  {
+    "revision": "0c2679fddd0aac4073a110ee730d3a8e",
     "url": "/index.html"
   }
 ];
